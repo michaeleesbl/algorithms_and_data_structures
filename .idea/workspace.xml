@@ -43,7 +43,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ReverseLinkedList">
+  <component name="RunManager" selected="Application.AddTwoNumbers">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -89,30 +89,34 @@
     </state>
     <state x="405" y="443" key="#Project_Structure/0.0.3072.1688@0.0.3072.1688" timestamp="1603567447592" />
     <state x="506" y="556" key="#Project_Structure/0.0.3840.2120@0.0.3840.2120" timestamp="1604043448287" />
+    <state x="1171" y="1231" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604281987641">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1171" y="1231" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.3840.2120@0.0.3840.2120" timestamp="1604281987641" />
     <state x="1700" y="815" key="FileChooserDialogImpl" timestamp="1604043483134">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state x="1700" y="815" key="FileChooserDialogImpl/0.0.3840.2120@0.0.3840.2120" timestamp="1604043483134" />
-    <state width="3841" height="384" key="GridCell.Tab.0.bottom" timestamp="1604051761999">
+    <state width="1288" height="356" key="GridCell.Tab.0.bottom" timestamp="1604284746002">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state width="1563" height="511" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1603579554338" />
-    <state width="3841" height="384" key="GridCell.Tab.0.bottom/0.0.3840.2120@0.0.3840.2120" timestamp="1604051761999" />
-    <state width="3841" height="384" key="GridCell.Tab.0.center" timestamp="1604051761999">
+    <state width="1288" height="356" key="GridCell.Tab.0.bottom/0.0.3840.2120@0.0.3840.2120" timestamp="1604284746002" />
+    <state width="1288" height="356" key="GridCell.Tab.0.center" timestamp="1604284746002">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state width="1563" height="511" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1603579554338" />
-    <state width="3841" height="384" key="GridCell.Tab.0.center/0.0.3840.2120@0.0.3840.2120" timestamp="1604051761999" />
-    <state width="3841" height="384" key="GridCell.Tab.0.left" timestamp="1604051761999">
+    <state width="1288" height="356" key="GridCell.Tab.0.center/0.0.3840.2120@0.0.3840.2120" timestamp="1604284746002" />
+    <state width="1288" height="356" key="GridCell.Tab.0.left" timestamp="1604284746002">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state width="1563" height="511" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1603579554338" />
-    <state width="3841" height="384" key="GridCell.Tab.0.left/0.0.3840.2120@0.0.3840.2120" timestamp="1604051761999" />
-    <state width="3841" height="384" key="GridCell.Tab.0.right" timestamp="1604051761999">
+    <state width="1288" height="356" key="GridCell.Tab.0.left/0.0.3840.2120@0.0.3840.2120" timestamp="1604284746002" />
+    <state width="1288" height="356" key="GridCell.Tab.0.right" timestamp="1604284746002">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state width="1563" height="511" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1603579554338" />
-    <state width="3841" height="384" key="GridCell.Tab.0.right/0.0.3840.2120@0.0.3840.2120" timestamp="1604051761999" />
+    <state width="1288" height="356" key="GridCell.Tab.0.right/0.0.3840.2120@0.0.3840.2120" timestamp="1604284746002" />
     <state width="3841" height="384" key="GridCell.Tab.1.bottom" timestamp="1604051762000">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
